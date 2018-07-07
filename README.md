@@ -23,7 +23,7 @@ https://www.linkedin.com/in/lauren-whalen-b202b512b/
 
 ### Header 3
 
-- Bulleted
+- Bulleted 
 - List
 
 1. Numbered
