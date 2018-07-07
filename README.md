@@ -1,8 +1,12 @@
-## Welcome to Lewlu's Page!
+## Welcome to The Life of Lewlu
 
-You can use the [editor on GitHub](https://github.com/lewlu/lewlu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+""Now I know the secret of making the best persons; it is to grow in the open air and eat and sleep with the earth." - Walt Whitman" - The cap of my Honest Tea
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My name is Lauren Elizabeth Whalen, and my nickname is Lulu because my brother, also a computer science major, couldn't pronounce Lauren when we were babies. Then, it took me until high school to realize that LEW are my initials and can be combined with lulu to make LEWLU. And what a nice and concise instagram handle that is! :) Onto my story:
+
+How exciting:
+I can use the [editor on GitHub](https://github.com/lewlu/lewlu/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Whenever I commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
