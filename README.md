@@ -16,7 +16,7 @@ I am computer engineering major and the idea of impostor syndrome resonates with
 ## That Above Advice I posted on BrightCrowd
 I love **BrightCrowd**, it is that grey area between LinkedIn and Facebook, where you can ask for or give advice on professional matters while connected with people who have similar career goals / life aspirations.
 Here is my page:
-Lauren's Lif(https://brightcrowd.com/profile/57d96635b7fe971400edc89c)
+Lauren's Life(https://brightcrowd.com/profile/57d96635b7fe971400edc89c)
 Then, I also like **LinkedIn** because I can update people on where my career is headed, and present myself alongside my resume, and see what my peers are doing to change the world!
 https://www.linkedin.com/in/lauren-whalen-b202b512b/
 
